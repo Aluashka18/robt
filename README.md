@@ -9,8 +9,11 @@ Tomiris Mukanova
 Technologies Used
 Programming Language: Python
 Libraries:
+
 OpenCV: Video capture and image processing
+
 ultralytics: YOLOv8 segmentation model
+
 NumPy: Efficient numerical computations
 
 pip install ultralytics opencv-python-headless numpy
